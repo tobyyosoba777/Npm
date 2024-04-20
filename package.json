@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tobyyosoba777/Npm.git"
+    "url": "git+https://github.com/tobyyosoba777tobi-pkg.git"
   },
   "keywords": [
     "Tobi"
@@ -16,7 +16,7 @@
   "author": "Tobiloba Gideon Osoba",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tobyyosoba777/Npm/issues"
+    "url": "https://github.com/tobyyosoba777/tobi-pkg/issues"
   },
-  "homepage": "https://github.com/tobyyosoba777/Npm#readme"
+  "homepage": "https://github.com/tobyyosoba777/tobi-pkg#readme"
 }
