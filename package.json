@@ -1,0 +1,22 @@
+{
+  "name": "tobi-pkg",
+  "version": "1.0.0",
+  "description": "Is the string Tobi?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobyyosoba777/Npm.git"
+  },
+  "keywords": [
+    "Tobi"
+  ],
+  "author": "Tobiloba Gideon Osoba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tobyyosoba777/Npm/issues"
+  },
+  "homepage": "https://github.com/tobyyosoba777/Npm#readme"
+}
